@@ -1,63 +1,57 @@
-# Welcome, I'm Gabriel Ramirez 👋  
-**Web Developer | Lifelong Learner | Team-Oriented**
+<h1 align="center">Hey, I'm Gabriel Ramírez 👋</h1>
+<p align="center">🌐 Web Developer | 💡 Tech Enthusiast | 🤝 Team Player</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-I'm a passionate web developer who loves to explore everything related to technology 🤖 and build useful, clean, and scalable web applications.
+I’m a web developer who loves building modern, scalable applications with JavaScript, React, and backend technologies.
 
-- 🌿 Committed to continuous personal and professional growth  
-- ⏳ Passionate about productivity, systems thinking, and focus  
-- 🧠 Always learning and experimenting with modern technologies  
-- 🫂 I value collaboration, teamwork, and community learning
-
----
-
-### 🛠️ Technologies & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,git,github,nodejs,express,nestjs,postgresql,sqlite,firebase,react,nextjs,astro,docker,cloudflare,vercel,gcp,figma,vscode,linux,markdown,powershell,bash,vite" />
-</p>
+- 💻 I enjoy learning new tools and frameworks  
+- 🧘‍♂️ I’m passionate about productivity, focus and systems  
+- 🌍 I love contributing to projects and working in teams  
+- 🚀 Always looking to improve, both personally and professionally  
 
 ---
 
-### 📝 Latest Blog Posts
+### ⚙️ Technologies I Use
 
-> *(Publica estos en tu blog o Notion y enlázalos aquí. Te dejo ejemplos por ahora)*
-
-- 📦 **[Cómo crear un sistema de diseño con Tailwind y Storybook](https://tu-blog.com/storybook-tailwind)**  
-  Aprende cómo construir un sistema de componentes reutilizables para escalar tus interfaces web.
-
-- 📦 **[Rutinas y hábitos para un día productivo](https://tu-blog.com/productividad)**  
-  El día empieza la noche anterior. Descubre cómo diseño mis mañanas para tener claridad y enfoque.
-
-- 📦 **[React Patterns para Componentes Reutilizables](https://tu-blog.com/react-patrones)**  
-  Conoce patrones como componentes puros, funciones utilitarias y hooks personalizados.
-
-- 📦 **[Los beneficios ocultos del aburrimiento](https://tu-blog.com/aburrimiento-creatividad)**  
-  Cómo el aburrimiento bien usado puede mejorar tu creatividad y balance mental.
-
----
-
-### 🌐 Links
-
-- 🔗 [Portfolio](https://gabrielcapaceta.dev)  
-- 🐦 [Twitter](https://twitter.com/gabrielcapaceta)  
-- 💼 [LinkedIn](https://linkedin.com/in/gabrielcapaceta)  
-- 📚 [Blog](https://blog.gabrielcapaceta.dev) *(si tienes uno)*
-
----
-
-### 📬 Contact
-
-- 📧 Email: [gabrielcapaceta@gmail.com](mailto:gabrielcapaceta@gmail.com)
-
----
-
-<!-- Optional: GitHub Stats & Streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielcapaceta&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielcapaceta&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,express,nestjs,postgresql,sqlite,firebase,docker,git,github,vscode,figma,linux,bash" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=minombresgabriel&theme=highcontrast&border_radius=7&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minombresgabriel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🎯 My Mindset
+
+> “Focus on learning, shipping, and improving — every day.”
+
+---
+
+### 🎬 Cool Visuals (Optional GIF)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer typing" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [minombresgabriel@gmail.com](mailto:minombresgabriel@gmail.com)  
+- 🐦 Twitter: [@minombresgabriel](https://twitter.com/minombresgabriel)  
+- 💼 LinkedIn: [linkedin.com/in/minombresgabriel](https://linkedin.com/in/minombresgabriel)  
+- 🌐 Website: [minombresgabriel.dev](https://minombresgabriel.dev) *(opcional)*
+
+---
+
