@@ -1,57 +1,41 @@
-<h1 align="center">Hey, I'm Gabriel Ramírez 👋</h1>
-<p align="center">🌐 Web Developer | 💡 Tech Enthusiast | 🤝 Team Player</p>
+<h1 align="">Welcome, I'm Gabriel Ramírez 👋</h1>
+<p align="">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🤝 Team Player</p>
 
 ---
 
 ### 🧠 About Me
 
-I’m a web developer who loves building modern, scalable applications with JavaScript, React, and backend technologies.
+I’m a full stack developer focused on building modern, efficient, and well-structured applications. I enjoy both frontend and backend development and love bringing complete projects to life.
 
-- 💻 I enjoy learning new tools and frameworks  
-- 🧘‍♂️ I’m passionate about productivity, focus and systems  
-- 🌍 I love contributing to projects and working in teams  
-- 🚀 Always looking to improve, both personally and professionally  
+- ⚙️ I work with technologies like React, Next.js, Node.js, and .NET  
+- 🧠 Passionate about learning new tools and architecture patterns  
+- 🤝 I thrive in team environments and love contributing to meaningful projects  
+- 🌱 Constantly improving my technical and soft skills  
+- ☁️ Experienced with deployments using Vercel, Railway, and PostgreSQL databases
 
 ---
 
-### ⚙️ Technologies I Use
+### ⚙️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,express,nestjs,postgresql,sqlite,firebase,docker,git,github,vscode,figma,linux,bash" />
+<p align="">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,bootstrap,react,nextjs,nodejs,express,nestjs,postgresql,mongodb,firebase,dotnet,vercel,docker,git,github,vscode,figma,wordpress,npm,notion,vite" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=minombresgabriel&theme=highcontrast&border_radius=7&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minombresgabriel&layout=compact&theme=tokyonight&hide_border=true" />
+### 📫 Contact
+
+<p align="">
+  <a href="mailto:minombresgabriel@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/minombresgabriel" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portafolio-gabriel-avq9.vercel.app" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-### 🎯 My Mindset
-
-> “Focus on learning, shipping, and improving — every day.”
-
----
-
-### 🎬 Cool Visuals (Optional GIF)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer typing" />
-</p>
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [minombresgabriel@gmail.com](mailto:minombresgabriel@gmail.com)  
-- 🐦 Twitter: [@minombresgabriel](https://twitter.com/minombresgabriel)  
-- 💼 LinkedIn: [linkedin.com/in/minombresgabriel](https://linkedin.com/in/minombresgabriel)  
-- 🌐 Website: [minombresgabriel.dev](https://minombresgabriel.dev) *(opcional)*
-
----
-
