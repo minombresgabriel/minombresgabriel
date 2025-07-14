@@ -30,7 +30,7 @@ I’m a full stack developer focused on building modern, efficient, and well-str
   <a href="mailto:minombresgabriel@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/minombresgabriel" target="_blank">
+  <a href="https://linkedin.com/in/gabriel-ramirez-soto/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portafolio-gabriel-avq9.vercel.app" target="_blank">
