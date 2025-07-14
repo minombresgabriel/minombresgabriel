@@ -18,7 +18,7 @@ I’m a full stack developer focused on building modern, efficient, and well-str
 ### ⚙️ Technologies & Tools
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,bootstrap,react,nextjs,nodejs,express,nestjs,postgresql,mongodb,firebase,dotnet,vercel,docker,git,github,vscode,figma,wordpress,npm,notion,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,nextjs,nodejs,express,nestjs,postgresql,mongodb,firebase,dotnet,vercel,docker,git,github,vscode,figma,wordpress,npm,notion,vite" />
 </p>
 
 ---
