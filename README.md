@@ -1,18 +1,17 @@
-<h1 align="">Welcome, I'm Gabriel Ramírez 👋</h1>
-<p align="">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🤝 Team Player</p>
+<h1 align="">Hey, I'm Gabriel Ramírez 👋</h1>
+<p align="">💻 Senior Full Stack Developer · NestJS · React/Next.js · PostgreSQL | Open to remote opportunities</p>
 
 ---
 
 ### 🧠 About Me
 
-I’m a full stack developer focused on building modern, efficient, and well-structured applications. I enjoy both frontend and backend development and love bringing complete projects to life.
+Full Stack Developer with 6+ years of experience building scalable web applications across the entire stack.
 
-- ⚙️ I work with technologies like React, Next.js, Node.js, and .NET  
-- 🧠 Passionate about learning new tools and architecture patterns  
-- 🤝 I thrive in team environments and love contributing to meaningful projects  
-- 🌱 Constantly improving my technical and soft skills  
-- ☁️ Experienced with deployments using Vercel, Railway, and PostgreSQL databases
-
+- ⚙️ Backend: NestJS, Node.js, Express, Prisma ORM, PostgreSQL  
+- 🎨 Frontend: React, Next.js, TypeScript, Tailwind  
+- ☁️ Deployments: Vercel, Railway, Docker  
+- 🤖 I use AI tools daily in my dev workflow to ship faster  
+- 🌍 Currently working remotely at a SaaS company | Open to new opportunities
 ---
 
 ### ⚙️ Technologies & Tools
