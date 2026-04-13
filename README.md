@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-Full Stack Developer with 6+ years of experience building scalable web applications across the entire stack.
+Full Stack Developer with 3+ years of professional experience building scalable web applications across the entire stack.
 
 - ⚙️ Backend: NestJS, Node.js, Express, Prisma ORM, PostgreSQL  
 - 🎨 Frontend: React, Next.js, TypeScript, Tailwind  
