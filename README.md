@@ -17,7 +17,7 @@ Full Stack Developer with 3+ years of professional experience building scalable 
 ### ⚙️ Technologies & Tools
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,prisma,javascript,typescript,react,nextjs,nodejs,express,nestjs,postgresql,mongodb,firebase,vercel,docker,git,github,vscode,figma,npm,notion,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,bootstrap,prisma,javascript,typescript,nodejs,express,postgresql,mongodb,firebase,vercel,git,github,figma,npm,notion,vite" />
 </p>
 
 ---
